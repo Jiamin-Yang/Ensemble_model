@@ -14,4 +14,6 @@ Install chemprop (check in https://github.com/chemprop/chemprop)
 
 4.molecular feature generates by feature.ipynb.
 
-5.Other folders are about materials needed for chart generation.
+5.supporting_information folder contained four files, such as training dataset, external validation dataset, manual collected dataset and supplementary information file about this article.
+
+6.Other folders are about materials needed for chart generation.
